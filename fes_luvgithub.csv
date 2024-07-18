@@ -1,0 +1,17 @@
+Index,Timestamp,Name,Age,Gender,FES Score ,F_Control,F_Responsive,F_Grand Total,Father Type ,M_Control,M_Responsive,M_Grand Total,Mother Type ,T_Control,T_Responsive,T_Grand Total,Parent Type,Anxiety score
+0,07-11-2024 20:54,Akanksha Manojbhai Baleva ,18,Female,260,27,40,67,Negligent,28,31,59,Negligent,55,71,126,Negligent,74
+1,07-11-2024 16:19,Charmi Varsani ,19,Female,219,88,87,175,Authoritative,86,78,164,Authoritative,174,165,339,Authoritative,2
+2,07-10-2024 19:11,Hamid m a ,17,Male,241,82,86,168,Authoritative,86,79,165,Authoritative,168,165,333,Authoritative,36
+3,07-11-2024 16:22,Hemangi Joshi ,19,Female,210,82,71,153,Authoritative,75,66,141,Negligent,157,137,294,Authoritarian,3
+4,07-11-2024 17:25,Laxmi,19,Female,214,58,59,117,Negligent,49,52,101,Negligent,107,111,218,Negligent,30
+5,06-17-2024 10:55:49,Mangali ,20,Female,211,61,52,113,Negligent,61,52,113,Negligent,122,104,226,Negligent,48
+6,07-11-2024 16:20,Nisha Dhandhala ,20,Female,207,95,95,190,Authoritative,84,78,162,Authoritative,179,173,352,Authoritative,0
+7,07-11-2024 17:02,Patel khushvi v.,19,Female,200,57,59,116,Negligent,86,87,173,Authoritative,143,146,289,Indulgent,77
+8,07-11-2024 16:25,Patel Nisha prahladbhai,19,Female,203,69,61,130,Negligent,55,62,117,Negligent,124,123,247,Negligent,17
+9,07-11-2024 16:26,Prachi,20,Female,207,66,61,127,Negligent,56,52,108,Negligent,122,113,235,Negligent,45
+10,07-12-2024 11:47,Pushpa Lata Tenginkaiye ,18,Female,193,93,94,187,Authoritative,90,86,176,Authoritative,183,180,363,Authoritative,10
+11,07-09-2024 11:25,Raju,15,Male,300,87,86,173,Authoritative,82,79,161,Authoritative,169,165,334,Authoritative,1
+12,07-11-2024 16:36,Rathod mrudali Sanjay Kumar ,20,Female,207,19,19,38,Negligent,73,72,145,Negligent,92,91,183,Negligent,30
+13,07-09-2024 19:48,Srustina,17,Female,250,90,91,181,Authoritative,88,78,166,Authoritative,178,169,347,Authoritative,24
+Correlation to Anxiety,,,,,-0.04,-0.67,-0.59,-0.64,0.00,-0.48,-0.44,-0.47,0.00,-0.64,-0.59,-0.62,0.00,1
+Correlation to FES,,,,,1,0.06,0.17,0.12,0.00,-0.06,-0.09,-0.07,0.00,0.01,0.07,0.04,0.00,-0.04
